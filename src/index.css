@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Staatliches&display=swap');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +13,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.cardMusic {
+  margin-top: 15px;
+}
+
+.descriptionVideo {
+  padding: 0 15px;
+}
+
+.subtitleVideo {
+  color: #606060;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  line-height: 2rem;
+  font-weight: 300;
+  margin-bottom: -0.25rem !important;
+}
+
+.titleCanal {
+    font-size: 12px;
+    color: #606060;
+}
+
+.cardMyYoutube {
+    background-color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin: 20px 0;
+    border-radius: 2px;
+    color: black;
+}
+
+.titleMyYoutube {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 30px;
+  padding-left: 12px;
+  margin-bottom: 0;
+  text-transform: capitalize !important;
+}
+
+
+
+
